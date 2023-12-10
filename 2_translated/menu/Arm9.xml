@@ -12,18 +12,18 @@
     <Entry>
       <PointerOffset>730548,735748</PointerOffset>
       <JapaneseText>現在地</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Location</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>730564,735764</PointerOffset>
       <JapaneseText>プレイ時間</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Play Time</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>730580,735780,739908,739924</PointerOffset>
@@ -76,10 +76,10 @@
     <Entry>
       <PointerOffset>730916</PointerOffset>
       <JapaneseText>バトルカスタム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Battle Custom</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>730932,732452,732868,732980,736724,740132</PointerOffset>
@@ -92,122 +92,122 @@
     <Entry>
       <PointerOffset>730948,732612,732644,732900</PointerOffset>
       <JapaneseText>コネクトパネル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Panels Conn</EnglishText>
       <Notes/>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>730964,733012</PointerOffset>
       <JapaneseText>作戦</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Strategy</EnglishText>
       <Notes/>
       <Id>13</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>730980</PointerOffset>
       <JapaneseText>装備</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Equipment</EnglishText>
       <Notes/>
       <Id>14</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>730996,733124,733828,733940</PointerOffset>
       <JapaneseText>ソーマビルド</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Soma Build</EnglishText>
       <Notes/>
       <Id>15</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731012,733444,733540,733572</PointerOffset>
       <JapaneseText>ソーマエボルブ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Soma Evolve</EnglishText>
       <Notes/>
       <Id>16</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731028,731972,733972,733988,735060,737908,738276</PointerOffset>
       <JapaneseText>アクセサリ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Accessories</EnglishText>
       <Notes/>
       <Id>17</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731044,734132,738820</PointerOffset>
       <JapaneseText>治癒石</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Healing Stone</EnglishText>
       <Notes/>
       <Id>18</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731060</PointerOffset>
       <JapaneseText>ライブラリ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Library</EnglishText>
       <Notes/>
       <Id>19</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731076,734356</PointerOffset>
       <JapaneseText>モンスター図鑑</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Monster's Guide</EnglishText>
       <Notes/>
       <Id>20</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731092,735012</PointerOffset>
       <JapaneseText>コレクター図鑑</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Collector's Guide</EnglishText>
       <Notes/>
       <Id>21</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731108,735220</PointerOffset>
       <JapaneseText>あらすじ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Synopsis</EnglishText>
       <Notes/>
       <Id>22</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731124,735268,735460,740228</PointerOffset>
       <JapaneseText>ワールドマップ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>World Map</EnglishText>
       <Notes/>
       <Id>23</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731140,735508</PointerOffset>
       <JapaneseText>バトルメモ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Battle Notes</EnglishText>
       <Notes/>
       <Id>24</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731156,735572</PointerOffset>
       <JapaneseText>リンクリスト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Links</EnglishText>
       <Notes/>
       <Id>25</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731172</PointerOffset>
       <JapaneseText>システム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>System</EnglishText>
       <Notes/>
       <Id>26</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731188,735652</PointerOffset>
@@ -228,58 +228,58 @@
     <Entry>
       <PointerOffset>731220,736484</PointerOffset>
       <JapaneseText>カスタム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Custom</EnglishText>
       <Notes/>
       <Id>29</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731236,731316</PointerOffset>
       <JapaneseText>ステータス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Status</EnglishText>
       <Notes/>
       <Id>30</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731252</PointerOffset>
       <JapaneseText>パーティメニュー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Party Menu</EnglishText>
       <Notes/>
       <Id>31</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731268</PointerOffset>
       <JapaneseText>キャラクタ入れ替え</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Swap Character</EnglishText>
       <Notes/>
       <Id>32</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731284</PointerOffset>
       <JapaneseText>パーティトップ入れ替え</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Party Top Replacement</EnglishText>
       <Notes/>
       <Id>33</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731300,731892,732324,732628,732884,732996,733108,733460,733556,733844,733956,734116,734340,734996,735204,735252,735492,735556,735636,736468,737828,738180,738740,739460,740052</PointerOffset>
       <JapaneseText>メニュー終了</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Menu End</EnglishText>
       <Notes/>
       <Id>34</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731332,731348</PointerOffset>
       <JapaneseText>称号</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Offense Ability</EnglishText>
       <Notes/>
       <Id>35</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731380</PointerOffset>
@@ -292,10 +292,10 @@
     <Entry>
       <PointerOffset>731428</PointerOffset>
       <JapaneseText>EG回復力</JapaneseText>
-      <EnglishText/>
+      <EnglishText>EG Recovery</EnglishText>
       <Notes/>
       <Id>37</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731444</PointerOffset>
@@ -340,106 +340,106 @@
     <Entry>
       <PointerOffset>731524,734612</PointerOffset>
       <JapaneseText>命中力</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hitting Power</EnglishText>
       <Notes/>
       <Id>43</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731540,734628</PointerOffset>
       <JapaneseText>回避力</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Evasive</EnglishText>
       <Notes/>
       <Id>44</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731556,734644</PointerOffset>
       <JapaneseText>集中力</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Concentration</EnglishText>
       <Notes/>
       <Id>45</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731572</PointerOffset>
       <JapaneseText>最大ＨＰ＋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Max HP+</EnglishText>
       <Notes/>
       <Id>46</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731588</PointerOffset>
       <JapaneseText>攻撃力＋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>PATK+</EnglishText>
       <Notes/>
       <Id>47</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731604</PointerOffset>
       <JapaneseText>防御力＋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>PDEF+</EnglishText>
       <Notes/>
       <Id>48</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731620</PointerOffset>
       <JapaneseText>術攻撃力＋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>MATK+</EnglishText>
       <Notes/>
       <Id>49</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731636</PointerOffset>
       <JapaneseText>術防御力＋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>ADEF+</EnglishText>
       <Notes/>
       <Id>50</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731652</PointerOffset>
       <JapaneseText>命中力＋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>ACC+</EnglishText>
       <Notes/>
       <Id>51</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731668</PointerOffset>
       <JapaneseText>回避力＋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>EVA+</EnglishText>
       <Notes/>
       <Id>52</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731684</PointerOffset>
       <JapaneseText>集中力＋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>FOC+</EnglishText>
       <Notes/>
       <Id>53</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731700</PointerOffset>
       <JapaneseText>最大ＥＧ＋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Max EG+</EnglishText>
       <Notes/>
       <Id>54</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731716</PointerOffset>
       <JapaneseText>ＥＧ回復力＋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>EG Resilience +</EnglishText>
       <Notes/>
       <Id>55</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731732,731748,732532,732548,732804,732820,732916,732932,733396,733412,733748,733764,734068,734084</PointerOffset>
@@ -492,10 +492,10 @@
     <Entry>
       <PointerOffset>731860</PointerOffset>
       <JapaneseText>ソーマリンク</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Soma Link</EnglishText>
       <Notes/>
       <Id>62</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731876</PointerOffset>
@@ -758,10 +758,10 @@
     <Entry>
       <PointerOffset>732676</PointerOffset>
       <JapaneseText>2枚</JapaneseText>
-      <EnglishText/>
+      <EnglishText>2 pieces</EnglishText>
       <Notes/>
       <Id>95</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>732692</PointerOffset>
@@ -1488,10 +1488,10 @@
     <Entry>
       <PointerOffset>735620</PointerOffset>
       <JapaneseText>スピルリンク</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Spiria Link</EnglishText>
       <Notes/>
       <Id>186</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>735684</PointerOffset>
