@@ -5,6 +5,7 @@
         "original_files":  "./0_disc/",
         "extracted_files": "./1_extracted/",
         "import_dat":      "./2_translated/DAT/",
+		"menu_original":   "./1.5_original_translated/menu/",
         "menu_xml":        "./2_translated/menu/",
         "story_xml":       "./2_translated/story/",
         "skit_xml":        "./2_Translated/skits/",

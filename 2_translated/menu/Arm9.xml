@@ -742,10 +742,10 @@
     <Entry>
       <PointerOffset>732596,740180</PointerOffset>
       <JapaneseText>操作モード切り替え</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Change Mode</EnglishText>
       <Notes/>
       <Id>93</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>732660</PointerOffset>
@@ -942,10 +942,10 @@
     <Entry>
       <PointerOffset>733588</PointerOffset>
       <JapaneseText>装備中</JapaneseText>
-      <EnglishText/>
+      <EnglishText>equipped</EnglishText>
       <Notes/>
       <Id>118</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>733604</PointerOffset>
@@ -958,18 +958,18 @@
     <Entry>
       <PointerOffset>733620</PointerOffset>
       <JapaneseText>このソーマでいいですか?</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Is this Soma okay?</EnglishText>
       <Notes/>
       <Id>120</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>733668</PointerOffset>
       <JapaneseText>ソーマエボルブできません。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Soma Evolve cannot be done.</EnglishText>
       <Notes/>
       <Id>121</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>733684</PointerOffset>
@@ -982,10 +982,10 @@
     <Entry>
       <PointerOffset>733700</PointerOffset>
       <JapaneseText>習得する必要があります。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You need to learn.</EnglishText>
       <Notes/>
       <Id>123</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>733716</PointerOffset>
@@ -1022,10 +1022,10 @@
     <Entry>
       <PointerOffset>733812,733860,733924</PointerOffset>
       <JapaneseText>習得可能ソーマスキル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Learnable Soma Skills</EnglishText>
       <Notes/>
       <Id>128</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>734004</PointerOffset>
@@ -1038,18 +1038,18 @@
     <Entry>
       <PointerOffset>734020</PointerOffset>
       <JapaneseText>外して装備しますか?</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Do you want to remove it and equip it?</EnglishText>
       <Notes/>
       <Id>130</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>734148</PointerOffset>
       <JapaneseText>消費エナジー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Energy Consumption</EnglishText>
       <Notes/>
       <Id>131</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>734164</PointerOffset>
@@ -1064,18 +1064,18 @@
       <PointerOffset>734180</PointerOffset>
       <JapaneseText>回復量の設定が完了していません。
 </JapaneseText>
-      <EnglishText/>
+      <EnglishText>Recovery amount has not been set.</EnglishText>
       <Notes/>
       <Id>133</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>734196</PointerOffset>
       <JapaneseText>設定の変更をキャンセルします。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Cancel any changes to the settings.</EnglishText>
       <Notes/>
       <Id>134</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>734212,737732,739636</PointerOffset>
@@ -1088,18 +1088,18 @@
     <Entry>
       <PointerOffset>734228</PointerOffset>
       <JapaneseText>設定が完了しませんがよろしいですか?</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Setup is not complete, is this ok?</EnglishText>
       <Notes/>
       <Id>136</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>734276</PointerOffset>
       <JapaneseText>治癒石の使用</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Use Healing Stone</EnglishText>
       <Notes/>
       <Id>137</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>734308</PointerOffset>
@@ -1120,26 +1120,26 @@
     <Entry>
       <PointerOffset>734372</PointerOffset>
       <JapaneseText>所持モンスター</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Monsters in your possession</EnglishText>
       <Notes/>
       <Id>140</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>734388</PointerOffset>
       <JapaneseText>レベル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Level</EnglishText>
       <Notes/>
       <Id>141</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>734404</PointerOffset>
       <JapaneseText>名前</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Name</EnglishText>
       <Notes/>
       <Id>142</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>734420</PointerOffset>
@@ -1152,18 +1152,18 @@
     <Entry>
       <PointerOffset>734436</PointerOffset>
       <JapaneseText>モンスター</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Monster</EnglishText>
       <Notes/>
       <Id>144</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>734452</PointerOffset>
       <JapaneseText>No.</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No.</EnglishText>
       <Notes/>
       <Id>145</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>734468</PointerOffset>
@@ -1256,10 +1256,10 @@
     <Entry>
       <PointerOffset>734804</PointerOffset>
       <JapaneseText>虫</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Insect</EnglishText>
       <Notes/>
       <Id>157</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>734820</PointerOffset>
@@ -1760,26 +1760,26 @@
     <Entry>
       <PointerOffset>736708,740084</PointerOffset>
       <JapaneseText>攻撃</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attack</EnglishText>
       <Notes/>
       <Id>220</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>736740,740100</PointerOffset>
       <JapaneseText>防御</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Guard</EnglishText>
       <Notes/>
       <Id>221</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>736756,740116</PointerOffset>
       <JapaneseText>メニュー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Menu</EnglishText>
       <Notes/>
       <Id>222</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>736772</PointerOffset>
@@ -1792,10 +1792,10 @@
     <Entry>
       <PointerOffset>736788,740164</PointerOffset>
       <JapaneseText>ターゲット切り替え</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Change Target</EnglishText>
       <Notes/>
       <Id>224</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>736820,740196</PointerOffset>
@@ -2675,18 +2675,18 @@
     <Entry>
       <PointerOffset>740068</PointerOffset>
       <JapaneseText>ボタンヘルプ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Buttons configuration</EnglishText>
       <Notes/>
       <Id>334</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>740148</PointerOffset>
       <JapaneseText>ポーズ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Pause</EnglishText>
       <Notes/>
       <Id>335</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>740212</PointerOffset>
